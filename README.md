@@ -38,8 +38,8 @@ did:key:z6MkpTHR8VNsBxYAAWHut2Geadd9jSwuBV8xRoAnwWsdvktH
 Docker:
 
 ```
-docker run -p 8080:8080 universalresolver/uni-resolver-did-v1-driver
 docker build -f ./Dockerfile . -t universalresolver/uni-resolver-did-v1-driver
+docker run -p 8080:8080 universalresolver/uni-resolver-did-v1-driver
 ```
 
 Native, with Node 10:
