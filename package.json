@@ -1,0 +1,31 @@
+{
+  "name": "uni-resolver-did-v1-driver",
+  "version": "0.0.1",
+  "description": "Universal Resolver Veres-One DID Driver.",
+  "license": "BSD-3-Clause",
+  "main": "resolver.js",
+  "scripts": {
+  },
+  "files": [
+    "resolver.js"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veres-one/uni-resolver-did-v1-driver"
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/veres-one/uni-resolver-did-v1-driver/issues"
+  },
+  "homepage": "https://github.com/veres-one/uni-resolver-did-v1-driver"
+}
