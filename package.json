@@ -5,20 +5,23 @@
   "license": "BSD-3-Clause",
   "main": "resolver.js",
   "scripts": {
+    "start": "node ./resolver.js"
   },
   "files": [
     "resolver.js"
   ],
   "dependencies": {
+    "did-io": "^0.8.0",
+    "did-method-key": "^0.5.1",
+    "did-veres-one": "^12.0.0",
+    "express": "^4.17.1"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/veres-one/uni-resolver-did-v1-driver"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": {
     "name": "Digital Bazaar, Inc.",
     "email": "support@digitalbazaar.com",
